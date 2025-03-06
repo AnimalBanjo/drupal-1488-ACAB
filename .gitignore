@@ -1,3 +1,3 @@
 # Ignore local settings
-/web/sites/*/settings.local.php
-/web/sites/*/settings.php
+/web/sites/default/settings.local.php
+/web/sites/default/settings.php
