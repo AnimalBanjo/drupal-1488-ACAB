@@ -1,0 +1,6 @@
+name: 'Super Danik ravlik'
+type: module
+description: 'A simple custom module.'
+core_version_requirement: ^9 || ^10
+package: Custom
+dependencies: []
